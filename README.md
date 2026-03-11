@@ -137,7 +137,7 @@ Displays the full command dashboard.
 
 ⚡ Installation
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/project-cobra.git
+git clone https://github.com/aswinhub26/project-cobra.git
 cd project-cobra
 2️⃣ Install Dependencies
 npm install
